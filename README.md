@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on **SaaS model & startups projects**
 
+- 👯 I am dedicated to creating efficient, scalable, and user-friendly web applications and I have experience working on various projects where I've honed my skills in both **front-end and back-end development**.
+
 - 👨‍💻 All of my projects are available at [https://sudhakar-mirjeli.github.io/Portfolio/](https://sudhakar-mirjeli.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript, NodeJs, Express, MongoDB, MongoDB aggregations, Angular**
