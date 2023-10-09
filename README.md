@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhakar-mirjeli&label=Profile%20views&color=0e75b6&style=flat" alt="sudhakar-mirjeli" /> </p>
 
-- 👯 I’m looking to collaborate on **SaaS model & startups projects**
+- 👯 I’m looking to collaborate on **SaaS model & Startups projects**
 
 - 👯 I am dedicated to creating efficient, scalable, and user-friendly web applications and I have experience working on various projects where I've honed my skills in both **front-end and back-end development**.
+
+- 👨‍💻 Please have a look at my portfolio here.-[https://sudhakar-mirjeli.github.io/my-profile/](https://sudhakar-mirjeli.github.io/my-profile/)
 
 - 👨‍💻 All of my projects are available at [https://sudhakar-mirjeli.github.io/Portfolio/](https://sudhakar-mirjeli.github.io/Portfolio/)
 
