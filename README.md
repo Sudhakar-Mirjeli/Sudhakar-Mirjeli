@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on MEAN Stack and Cloud Computing.
 
-- 🎥 I create coding tutorial videos on YoutTube at [https://www.youtube.com/@sudhakarmirjeli/videos]
+- 🎥 I create coding tutorial videos on YouTube at [https://www.youtube.com/@sudhakarmirjeli/videos]
 
 - 👯 I am dedicated to creating efficient, scalable, and user-friendly web applications. I love turning complex ideas into elegant solutions.
 
